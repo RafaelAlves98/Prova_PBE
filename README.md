@@ -29,3 +29,9 @@ GET Produto
 GET Notificação
 
 [] (Não concluída)
+
+## 3. APIs
+Todas as APIs com endpoints e CRUD funcionando corretamente.
+
+## 4. Banco de Dados (MySQL)
+Banco de Dados com o nome "SteelTech" foi criada com sucesso, está vinculado com Java Spring. Todos os dados que foram inseridos obtiveram êxito.
